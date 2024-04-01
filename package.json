@@ -1,4 +1,5 @@
 {
+  "name": "typebench",
   "scripts": {
     "clean": "hammer task clean",
     "format": "hammer task format",
